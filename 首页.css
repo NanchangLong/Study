@@ -19,3 +19,14 @@ p{
 li{
     margin: 40px;
 }
+.father{
+    height: 100px;
+    width: 300px;
+    background:gainsboro;
+}
+.child{
+    height: 100px;
+    width: 100px;
+    background: tomato;
+    margin: 0 auto;
+}
